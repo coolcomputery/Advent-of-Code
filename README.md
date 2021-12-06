@@ -1,5 +1,5 @@
 # Advent-of-Code-2021
-
+```
       --------Part 1---------   --------Part 2---------
 Day       Time    Rank  Score       Time    Rank  Score
   6   16:07:55   51993      0   16:10:46   45172      0
@@ -8,3 +8,4 @@ Day       Time    Rank  Score       Time    Rank  Score
   3       >24h  117030      0       >24h   92355      0
   2       >24h  137065      0       >24h  132396      0
   1       >24h  167599      0       >24h  150658      0
+```
