@@ -4,6 +4,7 @@ Personal statistics:
 Total: 20 points
       --------Part 1---------   --------Part 2---------
 Day       Time    Rank  Score       Time    Rank  Score
+ 10   00:05:13     269      0   00:09:21     177      0
   9   00:27:01    6159      0   00:34:38    2382      0 (started late because of a late-night event I attended)
   8   00:06:16     542      0   00:19:13      81     20
   7   00:02:59     397      0   00:05:18     370      0
