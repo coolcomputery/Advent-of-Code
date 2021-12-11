@@ -1,7 +1,7 @@
 # Advent-of-Code-2021
 Personal statistics:
 ```
-Total: 20 points
+Total: 44 points
       --------Part 1---------   --------Part 2---------
 Day       Time    Rank  Score       Time    Rank  Score
  11   00:07:29      77     24   00:10:15     113      0
