@@ -1,5 +1,13 @@
-# Advent-of-Code-2021
-Personal statistics:
+# Advent-of-Code
+## Personal statistics
+### 2022
+```
+      -------Part 1--------   -------Part 2--------
+Day       Time  Rank  Score       Time  Rank  Score
+  1   00:01:53   348      0   00:02:22   165      0
+```
+
+### 2021
 ```
 Total: 119 points
       --------Part 1---------   --------Part 2---------
