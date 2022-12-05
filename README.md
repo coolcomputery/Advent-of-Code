@@ -2,9 +2,10 @@
 ## Personal statistics
 ### 2022
 ```
-Total: 54 points
+Total: 52 points
       -------Part 1--------   -------Part 2--------
 Day       Time  Rank  Score       Time  Rank  Score
+  5   00:07:34   173      0   00:08:18   117      0
   4   00:02:20   134      0   00:02:55    56     45
   3   00:06:34  1118      0   00:08:39   530      0
   2   00:03:40    94      7   00:06:33   126      0
