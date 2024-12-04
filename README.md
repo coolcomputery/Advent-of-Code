@@ -1,5 +1,8 @@
 # Advent-of-Code
 ## Personal statistics
+### 2024
+won't have time to compete this year
+
 ### 2023
 ```
 Total: 651 points (98th globally, tied with one other person)
